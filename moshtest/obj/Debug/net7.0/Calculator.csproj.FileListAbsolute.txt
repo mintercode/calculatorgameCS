@@ -1,0 +1,15 @@
+/Users/thomasminter/Projects/moshtest/moshtest/bin/Debug/net7.0/Calculator
+/Users/thomasminter/Projects/moshtest/moshtest/bin/Debug/net7.0/Calculator.deps.json
+/Users/thomasminter/Projects/moshtest/moshtest/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/thomasminter/Projects/moshtest/moshtest/bin/Debug/net7.0/Calculator.dll
+/Users/thomasminter/Projects/moshtest/moshtest/bin/Debug/net7.0/Calculator.pdb
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.dll
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/refint/Calculator.dll
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.pdb
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/ref/Calculator.dll

@@ -1,0 +1,5 @@
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.cs.csproj.AssemblyReference.cache
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.cs.AssemblyInfoInputs.cache
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.cs.AssemblyInfo.cs
+/Users/thomasminter/Projects/moshtest/moshtest/obj/Debug/net7.0/Calculator.cs.csproj.CoreCompileInputs.cache
